@@ -1,0 +1,2 @@
+# GBI6_ExamenParcial1
+CONTROL DE LA VERSIÓN
